@@ -3,7 +3,7 @@
 
 body {
     box-sizing: border-box;
-    background-color:#eaebe9 ;
+    background-color:#fafefe;
     cursor:cell;
     font-family: 'Raleway';
     margin: 0;
@@ -120,6 +120,7 @@ section.about div.about-container p {
     font-weight: 400;
     font-size: 40px;
     line-height: 37px;
+    text-align: justify;
 }
 
 section.about div.about-container img {
@@ -183,7 +184,7 @@ section.hobbies-section div.hobbies-line div.hobbies-box ul {
 /* Experiência Acadêmica*/
 
 section.academic {
-    background-color: #e4ba59;
+    background-color: #5995e4;
 }
 
 section.academic div.courses {
@@ -210,7 +211,7 @@ section.academic div.courses ul li img:nth-child(1) {
 }
 
 section.academic div.courses ul li.course-img {
-    background-color: #ffefba;
+    background-color: #bafffd;
 }
 
 section.academic div.courses ul li.course-title h4 {
@@ -492,7 +493,8 @@ section.footer div.rodape {
     }
 
     section.title img.profile {
-        width: 368px;
+        width: 320px;
+        height: 550px;
 
     }
 
